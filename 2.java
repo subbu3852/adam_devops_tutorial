@@ -1,2 +1,3 @@
 line
 all good
+adoptability
